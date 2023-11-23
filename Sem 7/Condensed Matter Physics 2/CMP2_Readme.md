@@ -5,3 +5,5 @@ For end-sem syllabus, David Tong's Lecture Notes (1, 2, 3) on Quantum Hall Effec
 End-sem questions were derivations from these topics along with class notes.
 
 Some of the lecture notes by VS, for the last few topics can be found [here](https://www.dropbox.com/scl/fi/naw3qmdci4vdf8kcsoc5h/ppt_10112023.pdf?rlkey=vu8bssg37idp9ox8vndmtfnjp&dl=0)
+
+Some more notes from VS' previous courses - [link](https://www.dropbox.com/scl/fo/qowvlvnh6iu3420qqd12x/h?rlkey=1pfiyymhodmfhqjrs1ihomjla&dl=0)
